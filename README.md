@@ -1,6 +1,6 @@
 # fotoshare-downloader
 
-download all photos from https://fotoshare.co
+download all photos/album from https://fotoshare.co
 
 ## install dependencies
 
