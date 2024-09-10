@@ -13,3 +13,6 @@ npm install axios cheerio csv-writer
 ```
 node downloader.js 'https://fotoshare.co/album/your-album-id'
 ```
+
+## reference
+https://github.com/CodeBrauer/fotoshare.co-album-downloader
